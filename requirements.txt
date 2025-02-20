@@ -1,6 +1,7 @@
 numpy<2
 opencv-python
 pybind11>=2.12
+python-multipart
 fastapi==0.95.2
 uvicorn==0.22.0
 opencv-python-headless==4.8.0.74
